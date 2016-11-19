@@ -5,8 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseSNExample2_Baker", "PseS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseSNExample2_Baker.Droid", "Droid\PseSNExample2_Baker.Droid.csproj", "{92EEE755-0042-4BAA-B660-523CF458B68C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PseSNExample2_Baker.UITests", "UITests\PseSNExample2_Baker.UITests.csproj", "{73B07DD0-F457-4887-83F5-9BECEB65651C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,9 +19,5 @@ Global
 		{92EEE755-0042-4BAA-B660-523CF458B68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92EEE755-0042-4BAA-B660-523CF458B68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92EEE755-0042-4BAA-B660-523CF458B68C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73B07DD0-F457-4887-83F5-9BECEB65651C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73B07DD0-F457-4887-83F5-9BECEB65651C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73B07DD0-F457-4887-83F5-9BECEB65651C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73B07DD0-F457-4887-83F5-9BECEB65651C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
